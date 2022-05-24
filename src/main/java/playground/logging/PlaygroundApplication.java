@@ -1,12 +1,12 @@
-package com.playground.logging;
+package playground.logging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DeployApplication {
+public class PlaygroundApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DeployApplication.class, args);
+        SpringApplication.run(PlaygroundApplication.class, args);
     }
 }
