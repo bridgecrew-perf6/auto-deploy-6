@@ -12,7 +12,7 @@ on:
 
 env:
   S3_BUCKET_NAME: logging-naneun-deploy
-  PROJECT_NAME: study-deploy
+  PROJECT_NAME: playground-logging
 
 permissions:
   contents: read
